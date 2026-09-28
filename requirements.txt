@@ -1,0 +1,11 @@
+# Dependencies imported by the supplied Python scripts.
+# Versions are unpinned; the original environment was not provided.
+numpy
+pandas
+matplotlib
+rasterio
+mplcursors
+Cartopy
+
+# Optional for spline smoothing in plot_smoothed_ne.py:
+# scipy
